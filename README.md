@@ -5,7 +5,7 @@
 
 [Customer_Shopping_Trends_Analysis](https://www.kaggle.com/code/sukhadamore01/customer-shopping-trends-analysis)
 
-<img src="[https://www.stocksbnb.com/wp-content/uploads/2021/08/airbnb-678x381-1.png]" width=1000>
+<img src="https://arabadonline.com/cms_storage/ONLINESHOPPING.jpg" width=1000>
 
 ## Overview :
 This project analyzes customer shopping trends to provide insights that can help grow sales and profit. The analysis is based on visualizations created from shopping data.
@@ -14,7 +14,11 @@ This project analyzes customer shopping trends to provide insights that can help
 The dataset includes the following files:
  customer-shopping-latest-trends-dataset
 - Dataset Source : [Customer_Shopping_Trends_Analysis](/kaggle/input/customer-shopping-latest-trends-dataset/shopping_trends.csv)
-
+  This dataset encompasses various features related to customer shopping preferences, gathering essential information for businesses seeking to enhance their 
+  understanding of their customer base. The features include customer age, gender, purchase amount, preferred payment methods, frequency of purchases, and 
+  feedback ratings. Additionally, data on the type of items purchased, shopping frequency, preferred shopping seasons, and interactions with promotional offers is 
+  included. With a collection of 3900 records, this dataset serves as a foundation for businesses looking to apply data-driven insights for better decision-making 
+  and customer-centric strategies.
 
 ## Insights :
 1. The chart shows that "Clothing" is bought way more often than other things like "Accessories," "Footwear," and "Outerwear." 
@@ -27,8 +31,8 @@ The dataset includes the following files:
 6. People in the 18-24 and 45-54 age groups tend to spend the most money on average.The oldest customers (65+) spend the least on average.
 7. Most customers seem reasonably happy with their purchases, based on the ratings.
 ## Recommendation :
-1. Focus on Clothing: Since "Clothing" has the highest purchase count, prioritize marketing and inventory for this category. Ensure a wide variety and consider v 
-   loyalty programs specifically  for clothing buyers.   
+1. Focus on Clothing: Since "Clothing" has the highest purchase count, prioritize marketing and inventory for this category. Ensure a wide variety and consider 
+   various loyalty programs specifically  for clothing buyers.   
 2. Target Male Customers: Given that the majority of customers are male, tailor marketing campaigns and product selections to their preferences. However, don't 
    neglect female customers;explore ways to increase their engagement.   
 3. Optimize for Peak Seasons: Increase inventory and marketing efforts in the Fall, as purchase frequency tends to be high then.   
