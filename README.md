@@ -14,6 +14,7 @@ This project analyzes customer shopping trends to provide insights that can help
 The dataset includes the following files:
  customer-shopping-latest-trends-dataset
 - Dataset Source : [Customer_Shopping_Trends_Analysis](/kaggle/input/customer-shopping-latest-trends-dataset/shopping_trends.csv)
+ 
   This dataset encompasses various features related to customer shopping preferences, gathering essential information for businesses seeking to enhance their 
   understanding of their customer base. The features include customer age, gender, purchase amount, preferred payment methods, frequency of purchases, and 
   feedback ratings. Additionally, data on the type of items purchased, shopping frequency, preferred shopping seasons, and interactions with promotional offers is 
